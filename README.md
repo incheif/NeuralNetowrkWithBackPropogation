@@ -4,7 +4,7 @@ This Python code implements a Multi-Layer Perceptron (MLP) using a custom `Value
 
 #### Files:
 
-- `mlp_autodiff.py`: This file contains the implementation of the MLP and related classes/functions.
+- `NeuralNetwork.py`: This file contains the implementation of the MLP and related classes/functions.
   
 #### Classes:
 
